@@ -472,7 +472,7 @@ var APP_DATA = {
           "yaw": -3.055908863134796,
           "pitch": 0.523025331537676,
           "title": "Chicks",
-          "text": "Nursery Area"
+          "text": "Nursery area for Daisy, Alana, and Popcorn."
         }
       ]
     },
@@ -654,8 +654,8 @@ var APP_DATA = {
         {
           "yaw": 2.0154991563597315,
           "pitch": -0.3691634940661537,
-          "title": "Mood Monsters",
-          "text": "Show how you are feeling today."
+          "title": "Colour Monsters",
+          "text": "Place your peg to show how you are feeling today."
         }
       ]
     },
@@ -772,8 +772,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.3285876314249556,
-        "pitch": -0.0015326673110482858,
+        "yaw": -2.765383936859161,
+        "pitch": 0.3471516308830438,
         "fov": 1.8041807318971657
       },
       "linkHotspots": [
@@ -790,6 +790,12 @@ var APP_DATA = {
           "pitch": -0.01248622048377257,
           "title": "Gerbils",
           "text": "Lilo &amp; Stitch, who love digging and making tunnels."
+        },
+        {
+          "yaw": 2.122704947617061,
+          "pitch": -0.09559718295103536,
+          "title": "Colour Monsters",
+          "text": "Place your peg to show how you are feeling today."
         }
       ]
     },
@@ -939,8 +945,8 @@ var APP_DATA = {
         {
           "yaw": -2.6850107087350423,
           "pitch": 0.17593154483382634,
-          "title": "Our Values",
-          "text": "Our values are Respect, Nurture, and Belonging."
+          "title": "Our Values Tree",
+          "text": "As we grow, our tree grows."
         }
       ]
     },
