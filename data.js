@@ -1304,6 +1304,12 @@ var APP_DATA = {
           "pitch": 0.02120152867269276,
           "rotation": 1.5707963267948966,
           "target": "1-forest-area-entrance"
+        },
+        {
+          "yaw": 2.649020602455167,
+          "pitch": 0.060016602922873474,
+          "rotation": 1.5707963267948966,
+          "target": "22-allotments"
         }
       ],
       "infoHotspots": []
