@@ -466,7 +466,7 @@ var APP_DATA = {
           "yaw": 0.23209079118991482,
           "pitch": 0.058915774223297745,
           "title": "The Boot Room",
-          "text": "At the start of the day, pupils will enter through the Boot Room where they will find their peg and drawer."
+          "text": "At the start of the day, pupils enter through the Boot room — where they find their peg and drawer."
         },
         {
           "yaw": -3.055908863134796,
@@ -738,7 +738,7 @@ var APP_DATA = {
           "yaw": 0.3692297389632433,
           "pitch": 0.34242705460208356,
           "title": "Swing",
-          "text": "<div>The swing is in the centre of the room with the floor covered in crash mats.</div>"
+          "text": "<div>The swing is in the centre of the room — with the floor covered in crash mats.</div>"
         },
         {
           "yaw": 0.8352520366804992,
@@ -789,7 +789,7 @@ var APP_DATA = {
           "yaw": -0.6113918712945612,
           "pitch": -0.01248622048377257,
           "title": "Gerbils",
-          "text": "Lilo &amp; Stitch, who love digging and making tunnels."
+          "text": "Lilo and Stitch, who love making tunnels and digging."
         },
         {
           "yaw": 2.122704947617061,
@@ -1131,8 +1131,8 @@ var APP_DATA = {
           "target": "21-trampoline"
         },
         {
-          "yaw": 0.10035087134694365,
-          "pitch": 0.18420476843152223,
+          "yaw": 0.07415357811650125,
+          "pitch": 0.147659424060695,
           "rotation": 0,
           "target": "23-lake-view"
         },
@@ -1191,6 +1191,12 @@ var APP_DATA = {
           "pitch": 0.13194308773066865,
           "rotation": 0,
           "target": "22-allotments"
+        },
+        {
+          "yaw": 1.4867656178789401,
+          "pitch": 0.10447278822672956,
+          "rotation": 0,
+          "target": "23-lake-view"
         }
       ],
       "infoHotspots": []
@@ -1237,18 +1243,18 @@ var APP_DATA = {
           "target": "20-outdoor-area"
         },
         {
-          "yaw": 1.20855310418567,
-          "pitch": 0.12897767420335526,
+          "yaw": 1.2015054365264515,
+          "pitch": 0.10424893422386816,
           "rotation": 0,
           "target": "23-lake-view"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.03864856408941,
-          "pitch": -0.016597121490111277,
+          "yaw": -1.0386484618159102,
+          "pitch": -0.016597120490828843,
           "title": "Allotments",
-          "text": "Lake Haven will be growing food for the animals and for cooking projects in The Nest."
+          "text": "Lake Haven will be growing food for the animals and for cookery projects in The Nest."
         }
       ]
     },
