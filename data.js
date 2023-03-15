@@ -380,8 +380,8 @@ var APP_DATA = {
           "target": "7-the-boot-room"
         },
         {
-          "yaw": -1.1740171689561834,
-          "pitch": 0.0846890835452978,
+          "yaw": -1.184990321127053,
+          "pitch": 0.03884083027766039,
           "rotation": 0,
           "target": "0-front-gates"
         },
@@ -412,10 +412,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -3.0591652103428224,
-          "pitch": 0.7010151341643773,
+          "yaw": -3.0863302550487433,
+          "pitch": 0.7154639178389264,
           "title": "Boot Room",
-          "text": "At the start of the day, pupils will enter through the Boot Room where they will find their peg and drawer."
+          "text": "At the start of the day, pupils enter through the Boot Room — where they find their peg and drawer."
         }
       ]
     },
@@ -575,9 +575,9 @@ var APP_DATA = {
           "target": "10-downstairs-hallway"
         },
         {
-          "yaw": -2.0952108339447477,
-          "pitch": 0.05059598877830318,
-          "rotation": 4.71238898038469,
+          "yaw": -2.10965514032325,
+          "pitch": 0.007207629256589243,
+          "rotation": 10.995574287564278,
           "target": "16-values-tree"
         },
         {
@@ -986,8 +986,8 @@ var APP_DATA = {
           "target": "16-values-tree"
         },
         {
-          "yaw": -1.8451933471090918,
-          "pitch": 0.5156865926930916,
+          "yaw": -1.8751497791611555,
+          "pitch": 0.5199965348163929,
           "rotation": 0,
           "target": "18-the-den-playroom"
         }
@@ -1129,6 +1129,24 @@ var APP_DATA = {
           "pitch": -0.08143714127422719,
           "rotation": 3.141592653589793,
           "target": "21-trampoline"
+        },
+        {
+          "yaw": 0.10035087134694365,
+          "pitch": 0.18420476843152223,
+          "rotation": 0,
+          "target": "23-lake-view"
+        },
+        {
+          "yaw": -1.979968168927968,
+          "pitch": -0.020108037530043532,
+          "rotation": 1.5707963267948966,
+          "target": "1-forest-area-entrance"
+        },
+        {
+          "yaw": 2.337029652365043,
+          "pitch": 0.04589689730617508,
+          "rotation": 1.5707963267948966,
+          "target": "22-allotments"
         }
       ],
       "infoHotspots": []
@@ -1213,14 +1231,14 @@ var APP_DATA = {
           "target": "21-trampoline"
         },
         {
-          "yaw": 0.7333949214302979,
-          "pitch": 0.18532016206147972,
+          "yaw": 0.7287320022735813,
+          "pitch": 0.18119477542108342,
           "rotation": 0,
           "target": "20-outdoor-area"
         },
         {
-          "yaw": 1.1639826008945597,
-          "pitch": 0.13409804540724757,
+          "yaw": 1.20855310418567,
+          "pitch": 0.12897767420335526,
           "rotation": 0,
           "target": "23-lake-view"
         }
@@ -1258,8 +1276,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.05263348298380066,
-        "pitch": 0.14973445406192631,
+        "yaw": -0.1971775831283029,
+        "pitch": 0.19120348111682972,
         "fov": 1.7157809943966045
       },
       "linkHotspots": [
