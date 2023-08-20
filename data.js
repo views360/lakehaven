@@ -251,7 +251,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": 2.982085563065521,
         "pitch": 0.7830435387279984,
-        "fov": 1.4777220382364777
+        "fov": 1.2649271217229303
       },
       "linkHotspots": [
         {
@@ -299,9 +299,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.9641368848971048,
-        "pitch": 0.23421994012304737,
-        "fov": 1.4777220382364777
+        "yaw": 0.9533910799166385,
+        "pitch": 0.1729039037020037,
+        "fov": 1.2649271217229303
       },
       "linkHotspots": [
         {
@@ -376,7 +376,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": 2.7642500484156134,
         "pitch": 0.29695222161597457,
-        "fov": 1.4777220382364777
+        "fov": 1.2649271217229303
       },
       "linkHotspots": [
         {
@@ -436,9 +436,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.2478368988468915,
-        "pitch": 0.2643368845840861,
-        "fov": 1.4777220382364777
+        "yaw": -2.26216463882084,
+        "pitch": 0.2870465277029872,
+        "fov": 1.2649271217229303
       },
       "linkHotspots": [
         {
@@ -481,8 +481,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.4700828957754943,
-        "pitch": 0.8420364497645814,
+        "yaw": -2.440417242767097,
+        "pitch": 0.8393834479006017,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -576,8 +576,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -1.6221552276883529,
-        "pitch": 0.31627691335134145,
+        "yaw": -0.04386499066974281,
+        "pitch": 0.6346230185628805,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -627,8 +627,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.720190722811541,
-        "pitch": 0.4508164767172005,
+        "yaw": -0.5560407761650623,
+        "pitch": 0.408368446893526,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -759,8 +759,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.011405882008942,
-        "pitch": 1.1320202830085666,
+        "yaw": 2.0568932166218286,
+        "pitch": 1.0418182196332744,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -937,8 +937,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.3787077208889684,
-        "pitch": 0.37114681645000047,
+        "yaw": -2.8434696180206025,
+        "pitch": 0.2756387493467436,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -981,9 +981,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.30654508108682066,
-        "pitch": -0.12734408947100562,
-        "fov": 1.4777220382364777
+        "yaw": 0.2940083086096177,
+        "pitch": -0.30447930579845206,
+        "fov": 1.2649271217229303
       },
       "linkHotspots": [
         {
@@ -1013,8 +1013,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.45834428090498136,
-          "pitch": 0.1362022749291576,
+          "yaw": 0.23274522826620014,
+          "pitch": -0.06665353785607309,
           "title": "Our Values Tree",
           "text": "As we grow, our tree grows."
         }
@@ -1044,8 +1044,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.5545456667737723,
-        "pitch": 0.4923264680818846,
+        "yaw": 1.600033001386656,
+        "pitch": 0.5321214960415794,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -1184,8 +1184,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 3.1188082725957162,
-        "pitch": 0.19209937380360032,
+        "yaw": 3.067387807381147,
+        "pitch": 0.11516231974819036,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -1358,8 +1358,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 3.0817069724987203,
-        "pitch": 1.5193260362530996,
+        "yaw": 3.085362192567878,
+        "pitch": 1.5071242820593849,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -1384,8 +1384,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 2.951097501599654,
-          "pitch": 0.7145453533098625,
+          "yaw": -1.8134729888878915,
+          "pitch": 1.3836167219076518,
           "title": "Allotments",
           "text": "Lake Haven grows food for the animals and for cookery projects in The Nest."
         }
