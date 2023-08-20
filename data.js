@@ -30,6 +30,12 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
+          "yaw": -3.131208150641287,
+          "pitch": 0.018789361820637396,
+          "rotation": 1.5707963267948966,
+          "target": "8-front-door"
+        },
+        {
           "yaw": 2.4817464348453164,
           "pitch": 0.11582680694903758,
           "rotation": 4.71238898038469,
@@ -497,6 +503,24 @@ var APP_DATA = {
           "pitch": 0.9890086866081038,
           "rotation": 4.71238898038469,
           "target": "10-the-nest"
+        },
+        {
+          "yaw": 0.6268655903510698,
+          "pitch": 0.23369704232012012,
+          "rotation": 0,
+          "target": "5-playground"
+        },
+        {
+          "yaw": 1.295430805143127,
+          "pitch": 0.16711299512120092,
+          "rotation": 0.7853981633974483,
+          "target": "6-chicken-coops"
+        },
+        {
+          "yaw": 0.10543309501584552,
+          "pitch": 0.11521095639830392,
+          "rotation": 4.71238898038469,
+          "target": "1-forest-area-entrance"
         }
       ],
       "infoHotspots": [
