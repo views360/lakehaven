@@ -349,8 +349,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.9263498084722865,
-          "pitch": 0.32410743322479263,
+          "yaw": 1.0155955039831497,
+          "pitch": 0.21442967909029242,
           "title": "Adventure Playground",
           "text": "Supervised time on the swings, castle, slides, climbing rope, and frame."
         }
@@ -657,6 +657,12 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
+          "yaw": -3.0650091189874527,
+          "pitch": 0.6187452636114816,
+          "rotation": 0,
+          "target": "16-the-squirrels-classroom"
+        },
+        {
           "yaw": -2.199782484077705,
           "pitch": 0.07485167871424991,
           "rotation": 4.71238898038469,
@@ -669,22 +675,28 @@ var APP_DATA = {
           "target": "19-upstairs-hallway"
         },
         {
-          "yaw": -0.5604870971598608,
-          "pitch": 0.040523764492977676,
-          "rotation": 7.853981633974483,
+          "yaw": -0.6958854671920989,
+          "pitch": 0.5788380183455732,
+          "rotation": 12.566370614359176,
           "target": "12-downstairs-hallway"
         },
         {
-          "yaw": -0.6779602893830958,
-          "pitch": 0.2995380699793344,
-          "rotation": 0,
+          "yaw": -0.6452136264994994,
+          "pitch": 0.03764294424041381,
+          "rotation": 1.5707963267948966,
           "target": "14-the-warren-sensory-room"
         },
         {
           "yaw": -0.812903708694547,
           "pitch": 0.0457607645306819,
           "rotation": 4.71238898038469,
-          "target": "16-the-squirrels-classroom"
+          "target": "15-the-badgers-classroom"
+        },
+        {
+          "yaw": 1.7531705548616667,
+          "pitch": 0.7316329271281194,
+          "rotation": 0,
+          "target": "10-the-nest"
         }
       ],
       "infoHotspots": [
@@ -741,7 +753,7 @@ var APP_DATA = {
           "yaw": 1.1164127534811836,
           "pitch": 0.4582668913878152,
           "rotation": 4.71238898038469,
-          "target": "16-the-squirrels-classroom"
+          "target": "15-the-badgers-classroom"
         },
         {
           "yaw": -1.791988971602736,
@@ -872,8 +884,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.32822883738721487,
-        "pitch": 0.11485059957728083,
+        "yaw": 0.3044963149804829,
+        "pitch": 0.20505266295256774,
         "fov": 1.4777220382364777
       },
       "linkHotspots": [
@@ -1338,8 +1350,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.801585107062099,
-          "pitch": 0.1619922038657684,
+          "yaw": 2.864372074004084,
+          "pitch": 0.11935874598186302,
           "rotation": 1.5707963267948966,
           "target": "25-allotments"
         },
@@ -1394,8 +1406,8 @@ var APP_DATA = {
           "target": "24-outdoor-pen"
         },
         {
-          "yaw": -3.1052277160029416,
-          "pitch": -0.09157866369059597,
+          "yaw": -3.099426607196982,
+          "pitch": -0.15063674172319175,
           "rotation": 9.42477796076938,
           "target": "23-trampoline"
         },
