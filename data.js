@@ -24,28 +24,22 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -3.0430363684709754,
-        "pitch": 0.21603887952794665,
-        "fov": 1.8041807318971657
+        "yaw": 2.9527213294362973,
+        "pitch": 0.22116388266082154,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -2.699701158497394,
-          "pitch": -0.012334526270990409,
-          "rotation": 1.5707963267948966,
-          "target": "6-front-door"
-        },
-        {
-          "yaw": -3.069671653786152,
-          "pitch": 0.0867343612890199,
-          "rotation": 0,
-          "target": "5-playground"
-        },
-        {
-          "yaw": 2.9133034821905923,
-          "pitch": 0.0857582103770902,
+          "yaw": 2.4817464348453164,
+          "pitch": 0.11582680694903758,
           "rotation": 4.71238898038469,
           "target": "1-forest-area-entrance"
+        },
+        {
+          "yaw": 2.8835947536191266,
+          "pitch": 0.14572602491955955,
+          "rotation": 0,
+          "target": "5-playground"
         }
       ],
       "infoHotspots": []
@@ -74,46 +68,52 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.8808541744053473,
-        "pitch": 0.184361601701017,
-        "fov": 1.8041807318971657
+        "yaw": 2.896996436138158,
+        "pitch": 0.07319163965917141,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -3.056393423075397,
-          "pitch": 0.15561855531811908,
+          "yaw": -3.0609463714052154,
+          "pitch": 0.17143661802536414,
           "rotation": 0,
           "target": "2-the-nook"
         },
         {
-          "yaw": 2.7156058822207525,
-          "pitch": 0.16680819190776575,
+          "yaw": 2.688435799568915,
+          "pitch": 0.18005421176069802,
           "rotation": 0,
           "target": "3-the-nook-animal-area"
         },
         {
-          "yaw": 2.3699453646971325,
-          "pitch": 0.0678181818726955,
+          "yaw": 2.3645178482862548,
+          "pitch": 0.09041422216066941,
           "rotation": 4.71238898038469,
           "target": "4-fire-pit"
         },
         {
-          "yaw": 1.5187007559455932,
-          "pitch": 0.1736708333538548,
-          "rotation": 0,
-          "target": "0-front-gates"
-        },
-        {
-          "yaw": -0.5843886944420333,
-          "pitch": -0.04548258070449407,
-          "rotation": 1.5707963267948966,
-          "target": "6-front-door"
-        },
-        {
-          "yaw": -1.0690657999458608,
-          "pitch": 0.08609906256129385,
+          "yaw": -0.9508003289626679,
+          "pitch": 0.06369471299517393,
           "rotation": 0,
           "target": "5-playground"
+        },
+        {
+          "yaw": -0.5880454646411479,
+          "pitch": -0.048229795806895126,
+          "rotation": 7.853981633974483,
+          "target": "8-front-door"
+        },
+        {
+          "yaw": -1.1574929806788337,
+          "pitch": -0.03010550713562843,
+          "rotation": 4.71238898038469,
+          "target": "6-chicken-coops"
+        },
+        {
+          "yaw": 1.5272621301358118,
+          "pitch": 0.17237492309102365,
+          "rotation": 0,
+          "target": "0-front-gates"
         }
       ],
       "infoHotspots": []
@@ -142,28 +142,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -1.278102062676579,
-        "pitch": 0.3837949978560964,
-        "fov": 1.8041807318971657
+        "yaw": -3.118626288593539,
+        "pitch": 0.2914479808658399,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -2.492098212395895,
-          "pitch": -0.06910732379370188,
-          "rotation": 3.141592653589793,
+          "yaw": 2.482171784144864,
+          "pitch": 0.2591060661299416,
+          "rotation": 0,
           "target": "3-the-nook-animal-area"
         },
         {
-          "yaw": 2.493370369864774,
-          "pitch": 0.1313542395045495,
-          "rotation": 0,
-          "target": "1-forest-area-entrance"
+          "yaw": 1.6443112394791282,
+          "pitch": 0.07185539246913031,
+          "rotation": 4.71238898038469,
+          "target": "4-fire-pit"
         },
         {
-          "yaw": 2.7807129392673353,
-          "pitch": 0.07335037271805334,
-          "rotation": 1.5707963267948966,
-          "target": "4-fire-pit"
+          "yaw": 0.7555658052549195,
+          "pitch": 0.10450573661189999,
+          "rotation": 0,
+          "target": "1-forest-area-entrance"
         }
       ],
       "infoHotspots": []
@@ -192,36 +192,36 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -3.114625091922534,
-        "pitch": 0.4937975057733546,
-        "fov": 1.8041807318971657
+        "yaw": 3.0508030641956285,
+        "pitch": 0.6176954446833953,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -1.4488869158705828,
-          "pitch": 0.11372545772322873,
+          "yaw": -1.4471431090455216,
+          "pitch": 0.14147901367210736,
           "rotation": 0,
           "target": "2-the-nook"
         },
         {
-          "yaw": -0.752410008927253,
-          "pitch": -0.3626118684445174,
-          "rotation": 1.5707963267948966,
-          "target": "1-forest-area-entrance"
-        },
-        {
-          "yaw": -0.7447124539443077,
-          "pitch": -0.19322932816009164,
+          "yaw": -0.6854204507868928,
+          "pitch": -0.21082103341110958,
           "rotation": 1.5707963267948966,
           "target": "4-fire-pit"
+        },
+        {
+          "yaw": -0.6799116999587618,
+          "pitch": -0.33280474159392526,
+          "rotation": 1.5707963267948966,
+          "target": "1-forest-area-entrance"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.233946208727822,
-          "pitch": 0.28453464486231717,
+          "yaw": -2.2090802037652484,
+          "pitch": 0.361465599749895,
           "title": "Guinea Pigs",
-          "text": "<div>Rosie, Trixie, and Wednesday.</div><div><br style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"></div>"
+          "text": "Rosie, Trixie, and Wednesday."
         }
       ]
     },
@@ -249,28 +249,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.3773713889315697,
-        "pitch": 0.6461042226036824,
-        "fov": 1.470877007257044
+        "yaw": 2.982085563065521,
+        "pitch": 0.7830435387279984,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 1.1726641176965877,
-          "pitch": 0.006621012651551794,
-          "rotation": 1.5707963267948966,
-          "target": "1-forest-area-entrance"
+          "yaw": -0.9407769989560091,
+          "pitch": 0.09449058540208988,
+          "rotation": 4.71238898038469,
+          "target": "3-the-nook-animal-area"
         },
         {
-          "yaw": -0.18145632964071723,
-          "pitch": 0.10224983199026205,
+          "yaw": -0.10660755733728422,
+          "pitch": 0.15992118389108256,
           "rotation": 0,
           "target": "2-the-nook"
         },
         {
-          "yaw": -0.9686614904189437,
-          "pitch": 0.015667148431202094,
-          "rotation": 4.71238898038469,
-          "target": "3-the-nook-animal-area"
+          "yaw": 1.3306284716861718,
+          "pitch": 0.10051940904380885,
+          "rotation": 1.5707963267948966,
+          "target": "1-forest-area-entrance"
         }
       ],
       "infoHotspots": []
@@ -299,53 +299,166 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 3.0638588469908603,
-        "pitch": 0.11987548313003416,
-        "fov": 1.6710088474570186
+        "yaw": 0.9641368848971048,
+        "pitch": 0.23421994012304737,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.048559800118687,
-          "pitch": 0.07752618674584077,
+          "yaw": -2.1986617096583423,
+          "pitch": 0.22404397422108602,
+          "rotation": 0,
+          "target": "8-front-door"
+        },
+        {
+          "yaw": 3.123822086985653,
+          "pitch": 0.09766766389195602,
+          "rotation": 1.5707963267948966,
+          "target": "22-outdoor-area"
+        },
+        {
+          "yaw": 2.3890776275831485,
+          "pitch": 0.089929789045188,
+          "rotation": 4.71238898038469,
+          "target": "6-chicken-coops"
+        },
+        {
+          "yaw": 1.694327577581615,
+          "pitch": 0.11681322568152552,
+          "rotation": 0.7853981633974483,
+          "target": "7-chicken-run"
+        },
+        {
+          "yaw": -0.025169306874435193,
+          "pitch": 0.03882049690632172,
           "rotation": 1.5707963267948966,
           "target": "1-forest-area-entrance"
         },
         {
-          "yaw": 1.8351109816083904,
-          "pitch": 0.16809874730587104,
+          "yaw": -0.3276674542590339,
+          "pitch": 0.09327352757444274,
           "rotation": 0,
           "target": "0-front-gates"
-        },
-        {
-          "yaw": 0.08255323334649667,
-          "pitch": 0.15825686539022854,
-          "rotation": 0,
-          "target": "6-front-door"
-        },
-        {
-          "yaw": -0.5688966909054063,
-          "pitch": 0.10751794943752735,
-          "rotation": 0,
-          "target": "20-outdoor-area"
-        },
-        {
-          "yaw": -1.1751796271810573,
-          "pitch": 0.06677821403128448,
-          "rotation": 0,
-          "target": "23-lake-view"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 3.116835778580553,
-          "pitch": 0.7939912300408523,
+          "yaw": 0.9263498084722865,
+          "pitch": 0.32410743322479263,
           "title": "Adventure Playground",
-          "text": "Supervised time on the swings, castle, slides, climbing ropes, and frame."
+          "text": "Supervised time on the swings, castle, slides, climbing rope, and frame."
         }
       ]
     },
     {
-      "id": "6-front-door",
+      "id": "6-chicken-coops",
+      "name": "Chicken Coops",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.7642500484156134,
+        "pitch": 0.29695222161597457,
+        "fov": 1.4777220382364777
+      },
+      "linkHotspots": [
+        {
+          "yaw": 3.0101655717482183,
+          "pitch": 0.09091273195747185,
+          "rotation": 1.5707963267948966,
+          "target": "7-chicken-run"
+        },
+        {
+          "yaw": 1.1157856892967022,
+          "pitch": 0.16574534381896378,
+          "rotation": 0,
+          "target": "5-playground"
+        },
+        {
+          "yaw": -0.4033019296839573,
+          "pitch": 0.11765208423632956,
+          "rotation": 0.7853981633974483,
+          "target": "22-outdoor-area"
+        },
+        {
+          "yaw": -0.5866431573000028,
+          "pitch": -0.014195626592911736,
+          "rotation": 1.5707963267948966,
+          "target": "23-trampoline"
+        },
+        {
+          "yaw": 0.4035210492896901,
+          "pitch": 0.001852697218783561,
+          "rotation": 1.5707963267948966,
+          "target": "8-front-door"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-chicken-run",
+      "name": "Chicken Run",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -2.2478368988468915,
+        "pitch": 0.2643368845840861,
+        "fov": 1.4777220382364777
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.2032162893410785,
+          "pitch": -0.28601201250714325,
+          "rotation": 4.71238898038469,
+          "target": "6-chicken-coops"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 1.2347621586085644,
+          "pitch": 0.03095461459615123,
+          "title": "Goat and Lamb Enclosure",
+          "text": "Text"
+        }
+      ]
+    },
+    {
+      "id": "8-front-door",
       "name": "Front Door",
       "levels": [
         {
@@ -368,59 +481,35 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -3.056830155514131,
-        "pitch": 0.2884488170260777,
-        "fov": 1.8041807318971657
+        "yaw": -2.4700828957754943,
+        "pitch": 0.8420364497645814,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -3.0434560681624063,
-          "pitch": 0.9105388311631355,
-          "rotation": 0,
-          "target": "7-the-boot-room"
-        },
-        {
-          "yaw": -1.184990321127053,
-          "pitch": 0.03884083027766039,
-          "rotation": 0,
-          "target": "0-front-gates"
-        },
-        {
-          "yaw": -0.8352706975654396,
-          "pitch": -0.009403782091890633,
+          "yaw": -1.975691575226655,
+          "pitch": 0.6875333375495458,
           "rotation": 1.5707963267948966,
-          "target": "1-forest-area-entrance"
+          "target": "9-the-boot-room"
         },
         {
-          "yaw": -0.22253906373090437,
-          "pitch": 0.22917032769033518,
-          "rotation": 0,
-          "target": "5-playground"
-        },
-        {
-          "yaw": 1.5401946633518264,
-          "pitch": 0.21143884946289582,
-          "rotation": 0,
-          "target": "20-outdoor-area"
-        },
-        {
-          "yaw": 1.197278239337905,
-          "pitch": 0.12337912685991093,
-          "rotation": 0,
-          "target": "23-lake-view"
+          "yaw": 2.751331026889093,
+          "pitch": 0.9890086866081038,
+          "rotation": 4.71238898038469,
+          "target": "10-the-nest"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -3.0863302550487433,
-          "pitch": 0.7154639178389264,
+          "yaw": -2.307944789583191,
+          "pitch": 1.1799058540189336,
           "title": "Boot Room",
           "text": "At the start of the day, pupils enter through the Boot Room — where they find their peg and drawer."
         }
       ]
     },
     {
-      "id": "7-the-boot-room",
+      "id": "9-the-boot-room",
       "name": "The Boot Room",
       "levels": [
         {
@@ -443,41 +532,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.12624192209887042,
-        "pitch": 0.45537364378152034,
-        "fov": 1.8041807318971657
+        "yaw": -3.0819338845843482,
+        "pitch": 0.5657915587472466,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -0.6167091873519048,
-          "pitch": 0.3063841797695588,
-          "rotation": 0,
-          "target": "8-the-nest"
+          "yaw": 2.9790142925513914,
+          "pitch": 0.27944111404230654,
+          "rotation": 4.71238898038469,
+          "target": "8-front-door"
         },
         {
-          "yaw": -0.8158724978396688,
-          "pitch": 0.22437957592049074,
-          "rotation": 4.71238898038469,
-          "target": "6-front-door"
+          "yaw": 2.9709571012248874,
+          "pitch": 0.12500189880615586,
+          "rotation": 0,
+          "target": "10-the-nest"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 0.23209079118991482,
-          "pitch": 0.058915774223297745,
-          "title": "The Boot Room",
-          "text": "At the start of the day, pupils enter through the Boot room — where they find their peg and drawer."
-        },
-        {
-          "yaw": -3.055908863134796,
-          "pitch": 0.523025331537676,
-          "title": "Chicks",
-          "text": "Nursery area for Daisy, Alana, and Popcorn."
-        }
-      ]
+      "infoHotspots": []
     },
     {
-      "id": "8-the-nest",
+      "id": "10-the-nest",
       "name": "The Nest",
       "levels": [
         {
@@ -500,41 +576,35 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.5167322950199136,
-        "pitch": 0.353014204672343,
-        "fov": 1.8041807318971657
+        "yaw": -1.6221552276883529,
+        "pitch": 0.31627691335134145,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 3.041469310883901,
-          "pitch": 0.39526203976913266,
-          "rotation": 0,
-          "target": "9-book-corner"
+          "yaw": 0.4892682148804308,
+          "pitch": 0.11481833454676504,
+          "rotation": 17.27875959474387,
+          "target": "9-the-boot-room"
         },
         {
-          "yaw": -2.037219054461545,
-          "pitch": 0.35241079724725566,
-          "rotation": 6.283185307179586,
-          "target": "7-the-boot-room"
+          "yaw": -0.688551721103579,
+          "pitch": 0.3885258861308625,
+          "rotation": 0,
+          "target": "11-book-corner"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.3853844130016828,
-          "pitch": 0.7830736977259267,
+          "yaw": -0.10521232303043426,
+          "pitch": 0.9052918278567699,
           "title": "The Nest",
-          "text": "Breakfast on arrival. <br><br>Refreshments at break and lunch."
-        },
-        {
-          "yaw": 2.508726067780369,
-          "pitch": 0.02245962868668272,
-          "title": "Aquarium",
-          "text": "Seven fish and two snails."
+          "text": "Breakfast on arrival.<br><br>Refreshments at break and lunch."
         }
       ]
     },
     {
-      "id": "9-book-corner",
+      "id": "11-book-corner",
       "name": "Book Corner",
       "levels": [
         {
@@ -557,47 +627,53 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.46469976314282846,
-        "pitch": 0.17796030892691306,
-        "fov": 1.8041807318971657
+        "yaw": -0.720190722811541,
+        "pitch": 0.4508164767172005,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.2689100228918306,
-          "pitch": 0.5650500764467701,
-          "rotation": 0,
-          "target": "8-the-nest"
+          "yaw": -2.199782484077705,
+          "pitch": 0.07485167871424991,
+          "rotation": 4.71238898038469,
+          "target": "18-values-tree"
         },
         {
-          "yaw": -0.8898944416587238,
-          "pitch": 0.3796534318520788,
-          "rotation": 0,
-          "target": "10-downstairs-hallway"
+          "yaw": -1.9053350505425755,
+          "pitch": -0.1843130325406328,
+          "rotation": 0.7853981633974483,
+          "target": "19-upstairs-hallway"
         },
         {
-          "yaw": -2.10965514032325,
-          "pitch": 0.007207629256589243,
-          "rotation": 10.995574287564278,
-          "target": "16-values-tree"
+          "yaw": -0.5604870971598608,
+          "pitch": 0.040523764492977676,
+          "rotation": 7.853981633974483,
+          "target": "12-downstairs-hallway"
         },
         {
-          "yaw": -2.8330043220108774,
-          "pitch": 0.38049041164270037,
+          "yaw": -0.6779602893830958,
+          "pitch": 0.2995380699793344,
           "rotation": 0,
-          "target": "14-the-drey-english-resource-room"
+          "target": "14-the-warren-sensory-room"
+        },
+        {
+          "yaw": -0.812903708694547,
+          "pitch": 0.0457607645306819,
+          "rotation": 4.71238898038469,
+          "target": "16-the-squirrels-classroom"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.760628636465512,
-          "pitch": 0.012844966948348358,
+          "yaw": -1.6376308109407418,
+          "pitch": 0.18880834825839088,
           "title": "Reading Area",
           "text": "Somewhere to sit quietly — to enjoy a book alone or with a friend."
         }
       ]
     },
     {
-      "id": "10-downstairs-hallway",
+      "id": "12-downstairs-hallway",
       "name": "Downstairs Hallway",
       "levels": [
         {
@@ -620,47 +696,47 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.3574008120893613,
-        "pitch": 0.241027933872056,
-        "fov": 1.8041807318971657
+        "yaw": 2.5860167882368064,
+        "pitch": 0.14642698781822006,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 0.7811837887518376,
-          "pitch": 0.7580058992356644,
-          "rotation": 0,
-          "target": "11-downstairs-toilet"
+          "yaw": 2.097818738803256,
+          "pitch": 0.09240784021756099,
+          "rotation": 1.5707963267948966,
+          "target": "13-downstairs-toilet"
         },
         {
-          "yaw": -0.6227184662162415,
-          "pitch": 0.6506065223180642,
+          "yaw": 1.6800150484795315,
+          "pitch": 0.3947535846578667,
           "rotation": 0,
-          "target": "12-the-warren-sensory-room"
+          "target": "14-the-warren-sensory-room"
         },
         {
-          "yaw": -2.7521516232332868,
-          "pitch": 0.7002648715773478,
-          "rotation": 0,
-          "target": "13-the-brock-maths-resource-room"
+          "yaw": 1.1164127534811836,
+          "pitch": 0.4582668913878152,
+          "rotation": 4.71238898038469,
+          "target": "16-the-squirrels-classroom"
         },
         {
-          "yaw": 2.40066987131938,
-          "pitch": 0.4401524587193819,
+          "yaw": -1.791988971602736,
+          "pitch": 0.7424700759038458,
           "rotation": 0,
-          "target": "9-book-corner"
+          "target": "11-book-corner"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 2.0154991563597315,
-          "pitch": -0.3691634940661537,
+          "yaw": -3.121197457797466,
+          "pitch": 0.1276754802500406,
           "title": "Colour Monsters",
           "text": "Place your peg to show how you are feeling today."
         }
       ]
     },
     {
-      "id": "11-downstairs-toilet",
+      "id": "13-downstairs-toilet",
       "name": "Downstairs Toilet",
       "levels": [
         {
@@ -683,22 +759,22 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 3.116763881084432,
-        "pitch": 0.32268276908779825,
-        "fov": 1.8041807318971657
+        "yaw": 2.011405882008942,
+        "pitch": 1.1320202830085666,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -0.34692750678727435,
-          "pitch": 0.5242531006267743,
-          "rotation": 0,
-          "target": "10-downstairs-hallway"
+          "yaw": -1.2903245344467056,
+          "pitch": 0.4663440886893362,
+          "rotation": 12.566370614359176,
+          "target": "12-downstairs-hallway"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "12-the-warren-sensory-room",
+      "id": "14-the-warren-sensory-room",
       "name": "The Warren (Sensory Room)",
       "levels": [
         {
@@ -721,36 +797,36 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.805795026623878,
-        "pitch": 0.2870577558924765,
-        "fov": 1.8041807318971657
+        "yaw": -2.1516370522248813,
+        "pitch": 0.3064513749225988,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 3.0877359271734752,
-          "pitch": 0.3930094564502724,
-          "rotation": 0,
-          "target": "10-downstairs-hallway"
+          "yaw": 0.03340310248110612,
+          "pitch": 0.1112054552554973,
+          "rotation": 4.71238898038469,
+          "target": "12-downstairs-hallway"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.3692297389632433,
-          "pitch": 0.34242705460208356,
-          "title": "Swing",
-          "text": "<div>The swing is in the centre of the room — with the floor covered in crash mats.</div>"
-        },
-        {
-          "yaw": 0.8352520366804992,
-          "pitch": 0.014860843476364849,
+          "yaw": -2.069525783251388,
+          "pitch": -0.13546412834152122,
           "title": "Climbing Wall",
-          "text": "<div>The far wall is covered in brightly coloured climbing bricks.</div><div><br></div>"
+          "text": "The far wall is covered in brightly coloured climbing bricks."
+        },
+        {
+          "yaw": -1.7248652138776581,
+          "pitch": 0.29661953936589214,
+          "title": "Swing",
+          "text": "The swing is in the centre of the room — with the floor covered in crash mats."
         }
       ]
     },
     {
-      "id": "13-the-brock-maths-resource-room",
-      "name": "The Brock (Maths Resource Room)",
+      "id": "15-the-badgers-classroom",
+      "name": "The Badgers Classroom",
       "levels": [
         {
           "tileSize": 256,
@@ -772,36 +848,30 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.765383936859161,
-        "pitch": 0.3471516308830438,
-        "fov": 1.8041807318971657
+        "yaw": 0.32822883738721487,
+        "pitch": 0.11485059957728083,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.126365741641078,
-          "pitch": 0.3644433143546806,
+          "yaw": -1.0478687395500703,
+          "pitch": 0.3919003444946174,
           "rotation": 0,
-          "target": "10-downstairs-hallway"
+          "target": "12-downstairs-hallway"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.6113918712945612,
-          "pitch": -0.01248622048377257,
+          "yaw": 2.420881949299866,
+          "pitch": 0.05544540358978978,
           "title": "Gerbils",
-          "text": "Lilo and Stitch, who love making tunnels and digging."
-        },
-        {
-          "yaw": 2.122704947617061,
-          "pitch": -0.09559718295103536,
-          "title": "Colour Monsters",
-          "text": "Place your peg to show how you are feeling today."
+          "text": "Lilo and Stitch, who love digging and making making tunnels."
         }
       ]
     },
     {
-      "id": "14-the-drey-english-resource-room",
-      "name": "The Drey (English Resource Room)",
+      "id": "16-the-squirrels-classroom",
+      "name": "The Squirrels Classroom",
       "levels": [
         {
           "tileSize": 256,
@@ -823,28 +893,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.23430674066839785,
-        "pitch": 0.19614264623086974,
-        "fov": 1.8041807318971657
+        "yaw": -0.7772401088201235,
+        "pitch": 0.13795609692693844,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 0.4820704127504527,
-          "pitch": 0.3291608916355706,
+          "yaw": -0.2507413229530311,
+          "pitch": 0.26139474437749755,
           "rotation": 0,
-          "target": "9-book-corner"
+          "target": "11-book-corner"
         },
         {
-          "yaw": -2.998299146222376,
-          "pitch": 0.30949562437107403,
+          "yaw": 2.458478853057347,
+          "pitch": 0.4416080613524098,
           "rotation": 0,
-          "target": "15-the-hive-craft-room"
+          "target": "17-the-hive-craft-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "15-the-hive-craft-room",
+      "id": "17-the-hive-craft-room",
       "name": "The Hive (Craft Room)",
       "levels": [
         {
@@ -867,28 +937,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.3523783798992035,
-        "pitch": 0.439750956962925,
-        "fov": 1.8041807318971657
+        "yaw": -2.3787077208889684,
+        "pitch": 0.37114681645000047,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": -0.7881482080226583,
-          "pitch": 0.23195093066694028,
+          "yaw": 2.3669993271521363,
+          "pitch": 0.3835692363290466,
           "rotation": 0,
-          "target": "20-outdoor-area"
+          "target": "22-outdoor-area"
         },
         {
-          "yaw": -2.7244932465659844,
-          "pitch": 0.34613158880668315,
+          "yaw": 0.6333097233876792,
+          "pitch": 0.3440482016038029,
           "rotation": 0,
-          "target": "14-the-drey-english-resource-room"
+          "target": "16-the-squirrels-classroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "16-values-tree",
+      "id": "18-values-tree",
       "name": "Values Tree",
       "levels": [
         {
@@ -911,47 +981,47 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.722679851402157,
-        "pitch": 0.03973333526757905,
-        "fov": 1.331526103113278
+        "yaw": 0.30654508108682066,
+        "pitch": -0.12734408947100562,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.8497451447181295,
-          "pitch": 0.2257710962780255,
+          "yaw": -0.7045607405549887,
+          "pitch": 0.0929339501072679,
           "rotation": 1.5707963267948966,
-          "target": "14-the-drey-english-resource-room"
+          "target": "16-the-squirrels-classroom"
         },
         {
-          "yaw": 2.6899234109140906,
-          "pitch": 0.16120674131709833,
+          "yaw": -0.8661016923462519,
+          "pitch": 0.013877170499380753,
           "rotation": 1.5707963267948966,
-          "target": "8-the-nest"
+          "target": "10-the-nest"
         },
         {
-          "yaw": 2.4531107412610424,
-          "pitch": 0.16678439040315673,
+          "yaw": -1.0968333937505808,
+          "pitch": 0.06179637277345584,
           "rotation": 4.71238898038469,
-          "target": "10-downstairs-hallway"
+          "target": "11-book-corner"
         },
         {
-          "yaw": 2.1439127891476844,
-          "pitch": -0.2901859864990435,
-          "rotation": 0,
-          "target": "17-upstairs-hallway"
+          "yaw": -1.9451207142180174,
+          "pitch": -0.45681353588736684,
+          "rotation": 0.7853981633974483,
+          "target": "19-upstairs-hallway"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.6850107087350423,
-          "pitch": 0.17593154483382634,
+          "yaw": 0.45834428090498136,
+          "pitch": 0.1362022749291576,
           "title": "Our Values Tree",
           "text": "As we grow, our tree grows."
         }
       ]
     },
     {
-      "id": "17-upstairs-hallway",
+      "id": "19-upstairs-hallway",
       "name": "Upstairs Hallway",
       "levels": [
         {
@@ -974,36 +1044,36 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.702806933489512,
-        "pitch": 0.4993300692018643,
-        "fov": 1.8041807318971657
+        "yaw": 1.5545456667737723,
+        "pitch": 0.4923264680818846,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.781034946147752,
-          "pitch": 0.7446244349546838,
+          "yaw": 1.473810158410445,
+          "pitch": 0.6433075294370774,
           "rotation": 4.71238898038469,
-          "target": "16-values-tree"
+          "target": "18-values-tree"
         },
         {
-          "yaw": -1.8751497791611555,
-          "pitch": 0.5199965348163929,
+          "yaw": -3.122677003145135,
+          "pitch": 0.4621037220117863,
           "rotation": 0,
-          "target": "18-the-den-playroom"
+          "target": "20-the-owls-classroom"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.2804368445288787,
-          "pitch": 0.15364296094257313,
+          "yaw": -0.006436863624379896,
+          "pitch": 0.42126750108697664,
           "title": "Staff Room &amp; Office",
-          "text": "&nbsp;"
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "18-the-den-playroom",
-      "name": "The Den (Playroom)",
+      "id": "20-the-owls-classroom",
+      "name": "The Owls Classroom",
       "levels": [
         {
           "tileSize": 256,
@@ -1025,28 +1095,35 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.1606891110182307,
-        "pitch": 0.31984096367905934,
-        "fov": 1.8041807318971657
+        "yaw": -1.5560437829848865,
+        "pitch": 0.38982830891057674,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 3.0431787936662484,
-          "pitch": 0.27576917486425856,
+          "yaw": 0.8465204590614235,
+          "pitch": 0.2620653163310358,
           "rotation": 0,
-          "target": "17-upstairs-hallway"
+          "target": "21-upstairs-toilet"
         },
         {
-          "yaw": 2.3905202266897927,
-          "pitch": 0.21792680490205463,
+          "yaw": 1.490467874123941,
+          "pitch": 0.5133777646751021,
           "rotation": 0,
-          "target": "19-upstairs-toilet"
+          "target": "19-upstairs-hallway"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.1777290869392516,
+          "pitch": 0.16892556760945965,
+          "title": "Sewing Corner",
+          "text": "Text"
+        }
+      ]
     },
     {
-      "id": "19-upstairs-toilet",
+      "id": "21-upstairs-toilet",
       "name": "Upstairs Toilet",
       "levels": [
         {
@@ -1069,22 +1146,22 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.554153146689507,
-        "pitch": 0.35895942310603957,
-        "fov": 1.8041807318971657
+        "yaw": 3.0619353727687857,
+        "pitch": 0.7553683967872473,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 0.688303723218894,
-          "pitch": 0.44985613831898696,
+          "yaw": 0.8712732079507823,
+          "pitch": 0.461928457692645,
           "rotation": 0,
-          "target": "18-the-den-playroom"
+          "target": "20-the-owls-classroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "20-outdoor-area",
+      "id": "22-outdoor-area",
       "name": "Outdoor Area",
       "levels": [
         {
@@ -1107,52 +1184,58 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -3.083210314528813,
-        "pitch": 0.25974512731561816,
-        "fov": 1.8041807318971657
+        "yaw": 3.1188082725957162,
+        "pitch": 0.19209937380360032,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 2.878814328950078,
-          "pitch": 0.14201988627461937,
-          "rotation": 0,
-          "target": "15-the-hive-craft-room"
-        },
-        {
-          "yaw": -2.3748620960230262,
-          "pitch": 0.001736067307799516,
+          "yaw": -2.6512632826089053,
+          "pitch": 0.012278271237105898,
           "rotation": 4.71238898038469,
-          "target": "6-front-door"
+          "target": "8-front-door"
         },
         {
-          "yaw": 2.0358720248267064,
-          "pitch": -0.08143714127422719,
-          "rotation": 3.141592653589793,
-          "target": "21-trampoline"
-        },
-        {
-          "yaw": 0.07415357811650125,
-          "pitch": 0.147659424060695,
+          "yaw": 2.6891952104314036,
+          "pitch": 0.17288001381147566,
           "rotation": 0,
-          "target": "23-lake-view"
+          "target": "17-the-hive-craft-room"
         },
         {
-          "yaw": -1.979968168927968,
-          "pitch": -0.020108037530043532,
+          "yaw": -2.284118037847696,
+          "pitch": -0.014798934617754611,
           "rotation": 1.5707963267948966,
           "target": "1-forest-area-entrance"
         },
         {
-          "yaw": 2.337029652365043,
-          "pitch": 0.04589689730617508,
+          "yaw": -1.2561236186155806,
+          "pitch": 0.11585656115780729,
+          "rotation": 0,
+          "target": "6-chicken-coops"
+        },
+        {
+          "yaw": -2.029352788532023,
+          "pitch": 0.09415659954124145,
+          "rotation": 0,
+          "target": "5-playground"
+        },
+        {
+          "yaw": 1.6090957068799474,
+          "pitch": 0.06101973966588936,
           "rotation": 1.5707963267948966,
-          "target": "22-allotments"
+          "target": "23-trampoline"
+        },
+        {
+          "yaw": 2.1469323008999766,
+          "pitch": 0.06776418164170295,
+          "rotation": 1.5707963267948966,
+          "target": "24-outdoor-pen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "21-trampoline",
+      "id": "23-trampoline",
       "name": "Trampoline",
       "levels": [
         {
@@ -1175,34 +1258,84 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.5684820664650587,
-        "pitch": 0.2986432776844872,
-        "fov": 1.8041807318971657
+        "yaw": -1.2891352901455448,
+        "pitch": 0.3569928672994145,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 0.8911402705843869,
-          "pitch": 0.12170192757674414,
-          "rotation": 0,
-          "target": "20-outdoor-area"
+          "yaw": -0.6790439233270114,
+          "pitch": 0.03621507294130488,
+          "rotation": 4.71238898038469,
+          "target": "22-outdoor-area"
         },
         {
-          "yaw": -0.18898352380701766,
-          "pitch": 0.13194308773066865,
+          "yaw": -1.8939011330989626,
+          "pitch": 0.2529765368085215,
           "rotation": 0,
-          "target": "22-allotments"
+          "target": "24-outdoor-pen"
         },
         {
-          "yaw": 1.4867656178789401,
-          "pitch": 0.10447278822672956,
-          "rotation": 0,
-          "target": "23-lake-view"
+          "yaw": -2.1430145600352226,
+          "pitch": 0.03923273836767649,
+          "rotation": 14.137166941154074,
+          "target": "25-allotments"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "22-allotments",
+      "id": "24-outdoor-pen",
+      "name": "Outdoor Pen",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -3.096525573798683,
+        "pitch": 0.6779208503766156,
+        "fov": 1.2649271217229303
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.801585107062099,
+          "pitch": 0.1619922038657684,
+          "rotation": 1.5707963267948966,
+          "target": "25-allotments"
+        },
+        {
+          "yaw": 0.36957131443415747,
+          "pitch": 0.0486850867025872,
+          "rotation": 4.71238898038469,
+          "target": "23-trampoline"
+        },
+        {
+          "yaw": -1.1219201403884487,
+          "pitch": -0.010276111178111336,
+          "rotation": 4.71238898038469,
+          "target": "22-outdoor-area"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "25-allotments",
       "name": "Allotments",
       "levels": [
         {
@@ -1225,103 +1358,41 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -1.1267539814424445,
-        "pitch": 0.019579839099964857,
-        "fov": 1.2018509071287777
+        "yaw": 3.0817069724987203,
+        "pitch": 1.5193260362530996,
+        "fov": 1.4777220382364777
       },
       "linkHotspots": [
         {
-          "yaw": 3.056021000273515,
-          "pitch": -0.16506251282750561,
-          "rotation": 3.141592653589793,
-          "target": "21-trampoline"
+          "yaw": -2.8291520941181165,
+          "pitch": 0.1421778774437712,
+          "rotation": 4.71238898038469,
+          "target": "24-outdoor-pen"
         },
         {
-          "yaw": 0.7287320022735813,
-          "pitch": 0.18119477542108342,
-          "rotation": 0,
-          "target": "20-outdoor-area"
+          "yaw": -3.1052277160029416,
+          "pitch": -0.09157866369059597,
+          "rotation": 9.42477796076938,
+          "target": "23-trampoline"
         },
         {
-          "yaw": 1.2015054365264515,
-          "pitch": 0.10424893422386816,
-          "rotation": 0,
-          "target": "23-lake-view"
+          "yaw": 2.808339362855735,
+          "pitch": 0.06232802298752205,
+          "rotation": 4.71238898038469,
+          "target": "22-outdoor-area"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.0386484618159102,
-          "pitch": -0.016597120490828843,
+          "yaw": 2.951097501599654,
+          "pitch": 0.7145453533098625,
           "title": "Allotments",
-          "text": "Lake Haven will be growing food for the animals and for cookery projects in The Nest."
+          "text": "Lake Haven grows food for the animals and for cookery projects in The Nest."
         }
       ]
-    },
-    {
-      "id": "23-lake-view",
-      "name": "Lake View",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": -0.1971775831283029,
-        "pitch": 0.19120348111682972,
-        "fov": 1.7157809943966045
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.3883335965191543,
-          "pitch": -0.050218412410718116,
-          "rotation": 3.141592653589793,
-          "target": "21-trampoline"
-        },
-        {
-          "yaw": 3.0594125906524816,
-          "pitch": 0.20484373718256776,
-          "rotation": 0,
-          "target": "20-outdoor-area"
-        },
-        {
-          "yaw": -2.857167146296085,
-          "pitch": 0.04988457213400821,
-          "rotation": 4.71238898038469,
-          "target": "6-front-door"
-        },
-        {
-          "yaw": -2.4158623850754957,
-          "pitch": 0.02120152867269276,
-          "rotation": 1.5707963267948966,
-          "target": "1-forest-area-entrance"
-        },
-        {
-          "yaw": 2.649020602455167,
-          "pitch": 0.060016602922873474,
-          "rotation": 1.5707963267948966,
-          "target": "22-allotments"
-        }
-      ],
-      "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Lake Haven",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
